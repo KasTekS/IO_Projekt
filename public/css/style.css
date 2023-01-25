@@ -1,0 +1,54 @@
+.carousel-item img{
+
+    object-fit: cover;
+
+    overflow: hidden;
+
+    filter: brightness(0.6);
+
+    min-height: 30vh;
+
+    max-height: 65vh;
+
+  }
+.normalny{
+    background-color: green;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 5px;
+    font-size: 3vmin;
+    text-align: center;
+}
+.vip{
+    background-color: purple;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 5px;
+    font-size: 3vmin;
+    text-align: center;
+}
+.ulgowy{
+    background-color: #0a53be;
+    border: 1px solid rgba(1, 1, 1, 0.8);
+    padding: 5px;
+    font-size: 3vmin;
+    text-align: center;
+
+}
+.zarezerwowane{
+    background-color: #a4071d;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 5px;
+    font-size: 3vmin;
+    text-align: center;
+
+
+}
+.puste{
+    background-color: #fcd202;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 5px;
+    font-size: 3vmin;
+    text-align: center;
+
+
+}
+
